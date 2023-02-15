@@ -1,0 +1,15 @@
+contest1 2023-02-01 4 vrt 300
+Aa hash 1100 100
+Ba bp 1300 100
+Ca graph 1400 100
+Da STL 1600 0
+contest2 2023-02-04 4 vrt 320
+Ab bp 1300 100
+Bb hash 1300 100
+Cb greedy 1400 80
+Db hash 1600 40
+contest3 2023-02-06 4 vrt 340
+Ac hash 1100 100
+Bc comb 1300 100
+Cc graph 1400 100
+Dc STL 1600 40
